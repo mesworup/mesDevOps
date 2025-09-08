@@ -1,1 +1,1 @@
-This repository is all the topics i studied and practiced.
+This repository consists of all the topics I studied and practiced for DevOps.
